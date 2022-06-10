@@ -1,4 +1,4 @@
-### Olá , sou o felipe !!
+### Olá , sou o Felipe Pereira !!
 
 🌱Estudando programação : front-end
 
