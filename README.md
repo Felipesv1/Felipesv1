@@ -1,6 +1,6 @@
 ### Olá , sou o Felipe Pereira !!
 
-🌱Estudando programação : front-end
+<h1> front-end jr</h1>
 
 
 
