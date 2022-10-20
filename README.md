@@ -1,6 +1,6 @@
-### Olá , sou o Felipe Pereira !!
+<h1>Olá , sou o Felipe Pereira !!</h1>
 
-<h1> front-end jr</h1>
+<h2> front-end jr</h2>
 
 
 
