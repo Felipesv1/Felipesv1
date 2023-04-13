@@ -1,11 +1,14 @@
-<h1>Olá , sou o Felipe Pereira !!</h1>
+## Olá , sou o Felipe Pereira !!
 
 <h2> front-end jr</h2>
 
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipesv1&show_icons=true&theme=slateorange"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=slateorange"/>
+</div>
 
-
-<div style="display: inline_block"><br>
+<div style="display:flex"><br>
   <img align="center" alt="felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
