@@ -33,7 +33,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 #### Studying in this moment:
-[<img align="left" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+<img align="left" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
