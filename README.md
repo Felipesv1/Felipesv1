@@ -1,7 +1,4 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Felipesv1/Felipesv1/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 #### en
 
 <p align="center">Hello!!, my name is Felipe. Welcome to my profile . I started in technology at the beginning of 2022, studying front-end, working with reactJS, html, css, JS and improving myself. I'm currently studying at 42rio (software engineering school) there the base and c language, the methodology is peer-to-peer where we do practical projects and evaluate ourselves. I'm looking for my first job in the area!! <strong>front-end junor developer</strong> focused on web development.</p>&nbsp;
