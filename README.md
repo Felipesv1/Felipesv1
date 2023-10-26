@@ -2,17 +2,17 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Felipesv1/Felipesv1/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-en
+#### en
 
 <p align="center">Hello!!, my name is Felipe. Welcome to my profile . I started in technology at the beginning of 2022, studying front-end, working with reactJS, html, css, JS and improving myself. I'm currently studying at 42rio (software engineering school) there the base and c language, the methodology is peer-to-peer where we do practical projects and evaluate ourselves. I'm looking for my first job in the area!! <strong>front-end junor developer</strong> focused on web development.</p>&nbsp;
 
-pt-BR
+#### pt-BR
 
 <p align="center">Óla  !!, meu nome é felipe . Seja bem vindo ao meu perfil . comecei na tecnologia no inicio de 2022 , Estudando front-end , traballhando com reactJS , html , css , JS e veio me aprimorando  . Atualmente estou estudando na 42rio (escola de engenharia de software) la a base e a linguagem c , a metodologia é peer-to-peer onde fazemos projetos praticos e nos avalia-mos . busco o primeiro emprego na área !!<strong>Desenvolvedor front-end junior</strong> focado em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Felipesv1&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Felipesv1&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
