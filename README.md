@@ -34,7 +34,7 @@
 
 #### Studying in this moment:
 
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 
 #### Workstation Tools:
 
