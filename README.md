@@ -1,11 +1,11 @@
 
 #### en
 
-<p align="center">Hello!!, my name is Felipe. Welcome to my profile . I started in technology at the beginning of 2022, studying front-end, working with reactJS, html, css, JS and improving myself. I'm currently studying at 42rio (software engineering school) there the base and c language, the methodology is peer-to-peer where we do practical projects and evaluate ourselves. I'm looking for my first job in the area!! <strong>front-end junor developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Hello! My name is Felipe and I am a junior front-end developer focused on web development. I started in technology in early 2022 and since then I have been studying and improving my skills in languages such as ReactJS, HTML, CSS and JavaScript. Currently, I am studying at 42rio, a software engineering school that uses the peer-to-peer methodology, in which students develop practical projects and evaluate each other. I am looking for my first job in the field and I am excited to contribute to the development of amazing software.</p>&nbsp;
 
 #### pt-BR
 
-<p align="center">Óla  !!, meu nome é felipe . Seja bem vindo ao meu perfil . comecei na tecnologia no inicio de 2022 , Estudando front-end , traballhando com reactJS , html , css , JS e veio me aprimorando  . Atualmente estou estudando na 42rio (escola de engenharia de software) la a base e a linguagem c , a metodologia é peer-to-peer onde fazemos projetos praticos e nos avalia-mos . busco o primeiro emprego na área !!<strong>Desenvolvedor front-end junior</strong> focado em desenvolvimento web.</p>&nbsp;
+<p align="center">Olá! Meu nome é Felipe e sou desenvolvedor front-end júnior focado em desenvolvimento web. Comecei na tecnologia no início de 2022 e desde então venho estudando e me aprimorando em linguagens como ReactJS, HTML, CSS e JavaScript. Atualmente, estou estudando na 42rio, uma escola de engenharia de software que utiliza a metodologia peer-to-peer, na qual os alunos desenvolvem projetos práticos e se avaliam uns aos outros. Estou em busca do meu primeiro emprego na área e estou ansioso para contribuir com o desenvolvimento de softwares incríveis.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Felipesv1&theme=radical&mode=weekly" />
