@@ -1,7 +1,7 @@
 
 #### en
 
-<p align="center">Hello! My name is Felipe and I am a junior front-end developer focused on web development. I started in technology in early 2022 and since then I have been studying and improving my skills in languages such as ReactJS, HTML, CSS and JavaScript. Currently, I am studying at 42rio, a software engineering school that uses the peer-to-peer methodology, in which students develop practical projects and evaluate each other. I am looking for my first job in the field and I am excited to contribute to the development of amazing software.</p>&nbsp;
+<p align="center">Hello! My name is Felipe, and I'm a junior front-end developer focusing on web development. I started in technology in early 2022 and have been studying and improving in languages like ReactJS, HTML, CSS, and JavaScript. Additionally, I'm studying C at 42rio, a software engineering school using peer-to-peer methodology. Outside of 42, I'm learning Python and Node.js independently to deepen my skills and become a fullstack developer. I'm looking for my first job in the field and eager to contribute to the development of amazing software.</p>&nbsp;
 
 #### pt-BR
 
