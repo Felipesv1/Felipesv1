@@ -5,7 +5,7 @@
 
 #### pt-BR
 
-<p align="center">Olá! Meu nome é Felipe e sou desenvolvedor front-end júnior focado em desenvolvimento web. Comecei na tecnologia no início de 2022 e desde então venho estudando e me aprimorando em linguagens como ReactJS, HTML, CSS e JavaScript. Atualmente, estou estudando na 42rio, uma escola de engenharia de software que utiliza a metodologia peer-to-peer, na qual os alunos desenvolvem projetos práticos e se avaliam uns aos outros. Estou em busca do meu primeiro emprego na área e estou ansioso para contribuir com o desenvolvimento de softwares incríveis.</p>&nbsp;
+<p align="center">Olá! Meu nome é Felipe e sou desenvolvedor front-end júnior focado em desenvolvimento web. Comecei na tecnologia no início de 2022 e desde então venho estudando e me aprimorando em linguagens como ReactJS, HTML, CSS e JavaScript. Além disso, estou estudando C na 42rio, uma escola de engenharia de software que utiliza a metodologia peer-to-peer. Fora da 42, estou aprendendo Python e Node.js por conta própria, com o objetivo de me aprofundar e me tornar um desenvolvedor fullstack. Estou em busca do meu primeiro emprego na área e estou ansioso para contribuir com o desenvolvimento de softwares incríveis.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Felipesv1&theme=radical&mode=weekly" />
