@@ -11,7 +11,7 @@
 
 <!-- Bio -->
 <p align="center">
-  I began my journey into tech in early 2022, diving deep into ReactJS, HTML, CSS, and JavaScript. Currently studying C at 42rio, an innovative software engineering school. Outside of class, I'm exploring Python and Node.js to broaden my skills towards becoming a fullstack developer.
+  I began my journey into tech in early 2022, diving deep into ReactJS, HTML, CSS, and JavaScript. Currently studying C at 42rio, an innovative software engineering school. Outside of class, I'm exploring Python to broaden my skills towards becoming a fullstack developer.
 </p>
 
 <!-- Skills -->
